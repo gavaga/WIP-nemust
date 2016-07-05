@@ -1,0 +1,6 @@
+[package]
+name = "nemust"
+version = "0.1.0"
+authors = ["Gavin McDowell <gmcdowell@college.harvard.edu>"]
+
+[dependencies]
